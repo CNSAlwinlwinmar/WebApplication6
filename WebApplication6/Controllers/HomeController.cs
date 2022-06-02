@@ -8,7 +8,7 @@ namespace WebApplication6.Controllers
 {
     public class HomeController : Controller
     {
-        //branch6 change
+        //branch6 change6
         public ActionResult Index()
         {
             return View();
